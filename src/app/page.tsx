@@ -103,7 +103,7 @@ export default function HomePage() {
         <nav className="ml-auto flex gap-4 sm:gap-6">
           <Button variant="ghost" asChild>
             <a
-              href="https://github.com/Firebase/studio-apps/tree/main/puzzle-fusion"
+              href="https://github.com/JoaquinCamino12/PuzzleFusion"
               target="_blank"
             >
               Ver en GitHub
