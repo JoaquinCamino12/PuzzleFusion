@@ -2,7 +2,7 @@
 
 ¡Bienvenido a Puzzle Fusion! Una aplicación web interactiva donde puedes convertir cualquier imagen en un divertido rompecabezas para resolver directamente en tu navegador. Sube tu foto favorita, elige la dificultad y ¡a jugar!
 
-Esta aplicación está construida con Next.js y Tailwind CSS, y fue desarrollada con la ayuda de Firebase Studio.
+Esta aplicación está construida con Next.js y Tailwind CSS.
 
 Juegalo Aqui: [Puzzle Fusion](https://studio--studio-4655653684-934ae.us-central1.hosted.app/)
 <img width="1915" height="806" alt="Captura de pantalla 2025-10-04 023621" src="https://github.com/user-attachments/assets/ed954d5a-b9d2-4606-b7ec-57f2c8c5af10" />
@@ -45,7 +45,7 @@ Asegúrate de tener instalado [Node.js](https://nodejs.org/) (versión 18 o supe
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone https://github.com/your-username/puzzle-fusion.git
+    git clone https://github.com/JoaquinCamino12/PuzzleFusion.git
     cd puzzle-fusion
     ```
 
